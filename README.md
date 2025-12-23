@@ -1,6 +1,6 @@
 ### Hi 👋, This is Mohosin Hasan Akash
 <div style="text-align: center;">
-  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQFB3Yg-vx_52w/profile-displaybackgroundimage-shrink_350_1400/B56ZtJ1GH.G4AY-/0/1766470215122?e=1767830400&v=beta&t=a6QLnl7zGYcdYR3CDcdoxz31YrPyVGCKI9tIf3aDWl4" />
+  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQFCZSRFg60N-g/profile-displaybackgroundimage-shrink_350_1400/B56ZtJ3SiBJ8Ag-/0/1766470790679?e=1767830400&v=beta&t=_Yljr4RCRTE_Vu7B_a9TaLt5r5_22weyU4Qf2gZVRZw" />
 </div>
 
 
@@ -93,8 +93,8 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
 
 
 
-  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p>
 
 
