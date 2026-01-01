@@ -91,31 +91,14 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
   </a>
 </p>
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohosin999&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180" style="margin-right:10px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false" alt="GitHub Streak" height="180" style="margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" style="margin-right:10px;" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohosin999&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" height="180" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohosin999&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" height="180" style="margin-left:10px;" />
-</p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohosin999&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohosin999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mohosin999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
