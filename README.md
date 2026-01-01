@@ -97,15 +97,10 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p>
 
- ![](https://github-readme-stats.vercel.app/api?username=Mohosin999&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin999&show_icons=true&locale=en&layout=compact" alt="mohosin999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohosin999&show_icons=true&locale=en" alt="mohosin999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin999&" alt="mohosin999" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohosin999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohosin999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
  # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
