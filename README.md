@@ -17,7 +17,7 @@
 
 
 ## 🚀 About Me
-With over 3 years of experience in front-end development, I’m an expert at creating high-performance, scalable web applications that maximize user experience and business success. My skills are JavaScript, TypeScript, React, and Next.js, and I have a deep understanding of building RESTful APIs using Node.js & Express.
+With over 4 years of experience in front-end development, I’m an expert at creating high-performance, scalable web applications that maximize user experience and business success. My skills are JavaScript, TypeScript, React, and Next.js, and I have a deep understanding of building RESTful APIs using Node.js & Express.
 
 Recently, I’ve been building websites with AI-powered features integrated directly into the workflow. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
 
