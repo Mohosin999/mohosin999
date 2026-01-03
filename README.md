@@ -27,7 +27,7 @@ I truly enjoy learning new things. Currently, I’m exploring backend developmen
 
 Aiming for remote opportunities worldwide, I’m excited to bring my expertise to forward-thinking teams and contribute to projects driven by creativity and excellence.
 
-💼 Portfolio: https://personal-portfolio-website-brown-nine.vercel.app/
+💼 Portfolio: https://mohosin.vercel.app/
 
 
 ## 📚 Technical Skill Set: 
