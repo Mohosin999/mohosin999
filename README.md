@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning ****
+- 📖 I’m currently learning **System Design**
 
 - 🧠 I’m currently solving problems on ****
 
