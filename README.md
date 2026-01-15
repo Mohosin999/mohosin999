@@ -9,11 +9,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning ****
-
-- 🧠 I’m currently solving problems on ****
-
-- 🌐 How to reach me quickly **mohosin.hasan.akash@gmail.com**
+- 📖 I’m currently learning **Logging using ELK Stack**
 
 
 ## 🚀 About Me
