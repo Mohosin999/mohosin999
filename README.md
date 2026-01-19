@@ -1,6 +1,6 @@
 ### Hi 👋, this is Mohosin Hasan Akash, a MERN Stack Developer from Bangladesh.
 <div style="text-align: center;">
-  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQFYNjuOioyyEw/profile-displaybackgroundimage-shrink_350_1400/B56ZvCh4qlGQAY-/0/1768495222342?e=1770249600&v=beta&t=i-YBWSKNnm5N_EuilxfR7b_6ERD9c2zvY77FbTLcD5g" />
+  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQERoxRQzlN8wA/profile-displaybackgroundimage-shrink_350_1400/B56ZvW3fI4KIAY-/0/1768836429979?e=1770249600&v=beta&t=_ApaUiOoxQwQtWnY14zvXFjuFaJTTvNTLGa3I1HKeYw" />
 </div>
 
 
