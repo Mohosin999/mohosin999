@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **Logging using ELK Stack**
+- 📖 I’m currently learning ****
 
 
 ## 🚀 About Me
