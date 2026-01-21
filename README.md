@@ -77,12 +77,17 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
   <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:mohosin.hasan.akash@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
-  </a>
+  
   <a href="https://www.facebook.com/mohosinh99" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
   </a>
+
+  <p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohosin.hasan.akash@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
+  </a>
+</p>
+
 </p>
 
 
