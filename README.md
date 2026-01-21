@@ -14,10 +14,10 @@
 ## 🚀 About Me
 MERN Stack Developer focused on building scalable web apps and robust RESTful APIs with React, Next.js, and Node.js. I love integrating AI-driven features into my projects to keep things modern and efficient. For me, coding is about solving real problems with clean, maintainable code while constantly learning new tech. Beyond the terminal, I enjoy peaceful green spaces and staying active to keep my mind sharp. Always open to remote roles where I can build cool things with forward-thinking teams.
 
+► mohosin.hasan.akash@gmail.com
 
 
-
-## 📚 Skills & Experiance: 
+## 📚 Tecnical Skill Set: 
 ✅ JavaScript • TypeScript <br>
 ✅ React • Next.js • Redux-Toolkit • Zustand <br>
 ✅ Node.js • Express • MongoDB <br>
@@ -51,15 +51,11 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 
 
 ## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/mohosinh99/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mohosinh99)
-
-## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohosinh99/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mohosinh99)
 
 
 ## 📊 GitHub Status:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact) -->
-
 <table>
   <<tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact" /></td>
