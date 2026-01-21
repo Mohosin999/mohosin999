@@ -77,10 +77,12 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
   <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
   </a>
-  <!-- &nbsp;&nbsp;
-  <a href="https://x.com/mohosinh99" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X (Twitter)" height="30" width="30" />
-  </a> -->
+
+  &nbsp;&nbsp;
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
+  </a>
+
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/mohosinh99" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
