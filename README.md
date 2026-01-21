@@ -28,20 +28,18 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
 
 ## 📚 Technical Skill Set: 
 <div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
+  <img src="https://img.shields.io/badge/TypeScript-0B5ED7?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white">
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white">
   
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"> -->
-  
 <!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> -->
@@ -51,36 +49,6 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-
-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
-
-<img src="https://img.shields.io/badge/TypeScript-0B5ED7?style=for-the-badge&logo=typescript&logoColor=white">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white">
-
-<img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white">
-
-<!-- Zustand (fixed – read explanation below) -->
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white">
-
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white">
-
-<img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white">
-
-<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=white">
-
-<img src="https://img.shields.io/badge/React_Testing_Library-CC0000?style=for-the-badge&logo=testing-library&logoColor=white">
-
-<img src="https://img.shields.io/badge/Swagger-6BA539?style=for-the-badge&logo=swagger&logoColor=white">
-
 </div>
 
 
