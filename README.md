@@ -13,6 +13,7 @@
 
 ## 🚀 About Me
 MERN Stack Developer focused on building scalable web apps and robust RESTful APIs with React, Next.js, and Node.js. I love integrating AI-driven features into my projects to keep things modern and efficient. For me, coding is about solving real problems with clean, maintainable code while constantly learning new tech. Beyond the terminal, I enjoy peaceful green spaces and staying active to keep my mind sharp. Always open to remote roles where I can build cool things with forward-thinking teams.
+
 ► mohosin.hasan.akash@gmail.com
 
 
