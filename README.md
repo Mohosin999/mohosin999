@@ -51,21 +51,7 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 
 
 ## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohosinh99/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mohosinh99)   
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://www.facebook.com/mohosinh99" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohosin.hasan.akash@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
-  </a>
-</p>
-
-</p>
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/mohosinh99/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mohosinh99)
 
 ## 📧 For Business Inquiries 
 ✅  ► shovoalways@gmail.com
