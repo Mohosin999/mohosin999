@@ -18,13 +18,12 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 
 
 ## 📚 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ JavaScript • TypeScript <br>
+✅ React • Next.js • Redux-Toolkit • Zustand <br>
+✅ Node.js • Express • MongoDB <br>
+✅ Jest • Swagger <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+<!--
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/TypeScript-0B5ED7?style=for-the-badge&logo=typescript&logoColor=white">
@@ -44,11 +43,11 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
   <!-- <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> -->
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-</div>
+</div> -->
 
 
 ## ☕ Connect with me!
