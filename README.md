@@ -17,7 +17,14 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 
 
 
-## 📚 Technical Skill Set: 
+## 📚 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/TypeScript-0B5ED7?style=for-the-badge&logo=typescript&logoColor=white">
@@ -58,6 +65,9 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 </p>
 
 </p>
+
+## 📧 For Business Inquiries 
+✅  ► shovoalways@gmail.com
 
 
 ## 📊 GitHub Status:
