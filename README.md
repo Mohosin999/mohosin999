@@ -52,6 +52,8 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 
 
 ## ☕ Connect with me!
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohosinh99/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mohosinh99)   
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
@@ -71,12 +73,11 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 
 
 ## 📊 GitHub Status:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact)
-![Top Langs](https://nirzak-streak-stats.vercel.app/?username=Mohosin999&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact) -->
+
 <table>
   <<tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?username=Mohosin999&layout=compact" /></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false" /></td>
   </tr>
 </table>
