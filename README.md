@@ -75,7 +75,7 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 ![Top Langs](https://nirzak-streak-stats.vercel.app/?username=Mohosin999&layout=compact)
 <table>
   <<tr>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact)</td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact" /></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false" /></td>
   </tr>
 </table>
