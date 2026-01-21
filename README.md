@@ -4,7 +4,6 @@
 </div>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
 - 💻 I’m currently working on ****
@@ -31,7 +30,7 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/TypeScript-0B5ED7?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-010101?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white">
   
@@ -58,12 +57,9 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
   <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
   </a>
-  
   <a href="https://www.facebook.com/mohosinh99" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
   </a>
-  
-  <p target="_blank">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohosin.hasan.akash@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
   </a>
@@ -72,11 +68,10 @@ Aiming for remote opportunities worldwide, I’m excited to bring my expertise t
 </p>
 
 
-
 ## 📊 GitHub Status:
 <table>
-  <!-- <tr>
+  <<tr>
     <td><img src="https://github-contributor-stats.vercel.app/api?username=Mohosin999&limit=5&theme=dark&combine_all_yearly_contributions=true" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false" /></td> -->
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false" /></td>
   </tr>
 </table>
