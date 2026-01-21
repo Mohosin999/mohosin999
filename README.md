@@ -13,11 +13,10 @@
 
 ## 🚀 About Me
 MERN Stack Developer focused on building scalable web apps and robust RESTful APIs with React, Next.js, and Node.js. I love integrating AI-driven features into my projects to keep things modern and efficient. For me, coding is about solving real problems with clean, maintainable code while constantly learning new tech. Beyond the terminal, I enjoy peaceful green spaces and staying active to keep my mind sharp. Always open to remote roles where I can build cool things with forward-thinking teams.
-
 ► mohosin.hasan.akash@gmail.com
 
 
-## 📚 Tecnical Skill Set: 
+## 📚 Skills & Experience: 
 ✅ JavaScript • TypeScript <br>
 ✅ React • Next.js • Redux-Toolkit • Zustand <br>
 ✅ Node.js • Express • MongoDB <br>
@@ -57,7 +56,7 @@ MERN Stack Developer focused on building scalable web apps and robust RESTful AP
 ## 📊 GitHub Status:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact) -->
 <table>
-  <<tr>
+  <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosin999&layout=compact" /></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=Mohosin999&theme=default&hide_border=false" /></td>
   </tr>
