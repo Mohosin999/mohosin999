@@ -16,9 +16,7 @@ With over two years of hands-on experience in MERN stack development, I focus on
 
 I enjoy integrating AI-powered features into my workflow to make my solutions more modern and ahead of the curve. When I’m not coding, I enjoy spending time in peaceful, green environments, and I exercise regularly to maintain both physical and mental health. Always open to remote roles where I can build cool things with forward-thinking teams.
 
-𝐂𝐨𝐧𝐭𝐚𝐜𝐭:
-📧 mohosin.hasan.akash@gmail.com <br>
-📧 mohosinlinkedin@gmail.com
+𝐂𝐨𝐧𝐭𝐚𝐜𝐭: 📧 mohosin.hasan.akash@gmail.com or 📧 mohosinlinkedin@gmail.com
 
 
 ## 📚 Skills & Experience: 
