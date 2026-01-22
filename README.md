@@ -12,9 +12,11 @@
 
 
 ## 🚀 About Me
-MERN Stack Developer focused on building scalable web apps and robust RESTful APIs with React, Next.js, and Node.js. I love integrating AI-driven features into my projects to keep things modern and efficient. For me, coding is about solving real problems with clean, maintainable code while constantly learning new tech. Beyond the terminal, I enjoy peaceful green spaces and staying active to keep my mind sharp. Always open to remote roles where I can build cool things with forward-thinking teams.
+With over two years of hands-on experience in MERN stack development, I focus on creating high-performance, scalable web applications that maximize user experience. My skills are JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB. This skill set enables me to create responsive frontends, develop RESTful APIs, and work effectively across the frontend and backend. I enjoy integrating AI-powered features into my workflow to make my solutions more modern and ahead of the curve. When I’m not coding, I enjoy spending time in peaceful, green environments, and I exercise regularly to maintain both physical and mental health. Always open to remote roles where I can build cool things with forward-thinking teams.
 
-► mohosin.hasan.akash@gmail.com
+𝐂𝐨𝐧𝐭𝐚𝐜𝐭:
+📧 mohosin.hasan.akash@gmail.com
+📧 mohosinlinkedin@gmail.com
 
 
 ## 📚 Skills & Experience: 
