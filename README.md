@@ -1,4 +1,4 @@
-### Hi 👋, this is Mohosin Hasan Akash, a MERN Stack developer from Bangladesh.
+### Hi 👋, this is Mohosin Hasan Akash, a MERN Stack Developer from Bangladesh.
 <div style="text-align: center;">
   <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQEEoVg9UWAhyA/profile-displaybackgroundimage-shrink_350_1400/B56ZvkiGuzI4AY-/0/1769065705991?e=1770854400&v=beta&t=CDQwWX5puirNIRM9Fz_ZuBsOSUKUyO8eL-B7M3O0dy0" />
 </div>
