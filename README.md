@@ -12,9 +12,9 @@
 
 
 ## 🚀 About Me
-With over 4 years of experience in front-end development, I’m an expert at creating high-performance, scalable web applications that maximize user experience. My skills are JavaScript, TypeScript, React, and Next.js, and I have a deep understanding of building RESTful APIs using Node.js and Express. Recently, I’ve been building websites with AI-powered features integrated directly into the workflow. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
+With over 4 years of experience in front-end development, I’m an expert at creating high-performance, scalable web applications that maximize user experience. My skills are JavaScript, TypeScript, React, and Next.js, and I have a deep understanding of building RESTful APIs using Node.js and Express.
 
-I truly enjoy learning new things. Right now, I’m exploring backend development and working with the MERN stack to strengthen my full-stack skills. When I’m not coding, I love spending time in peaceful green environments. I also exercise regularly to stay physically and mentally healthy.
+Recently, I’ve been building websites with AI-powered features integrated directly into the workflow. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve. I truly enjoy learning new things. Right now, I’m exploring backend development and working with the MERN stack to strengthen my full-stack skills.
 
 📌 Always open to remote roles where I can build cool things with forward-thinking teams.
 
