@@ -1,4 +1,4 @@
-### Hi 👋, this is Mohosin Hasan Akash, a MERN Stack Developer from Bangladesh.
+### Hi 👋, this is Mohosin Hasan Akash, a Frontend Engineer from Bangladesh.
 <div style="text-align: center;">
   <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQEEoVg9UWAhyA/profile-displaybackgroundimage-shrink_350_1400/B56ZvkiGuzI4AY-/0/1769065705991?e=1770854400&v=beta&t=CDQwWX5puirNIRM9Fz_ZuBsOSUKUyO8eL-B7M3O0dy0" />
 </div>
@@ -12,9 +12,11 @@
 
 
 ## 🚀 About Me
-With over two years of hands-on experience in MERN stack development, I focus on creating high-performance, scalable web applications that maximize user experience. My skills are JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB. This skill set enables me to create responsive frontends, develop RESTful APIs, and work effectively across the frontend and backend.
+With over 4 years of experience in front-end development, I’m an expert at creating high-performance, scalable web applications that maximize user experience. My skills are JavaScript, TypeScript, React, and Next.js, and I have a deep understanding of building RESTful APIs using Node.js and Express. Recently, I’ve been building websites with AI-powered features integrated directly into the workflow. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve.
 
-I enjoy integrating AI-powered features into my workflow to make my solutions more modern and ahead of the curve. When I’m not coding, I enjoy spending time in peaceful, green environments, and I exercise regularly to maintain both physical and mental health. Always open to remote roles where I can build cool things with forward-thinking teams.
+I truly enjoy learning new things. Right now, I’m exploring backend development and working with the MERN stack to strengthen my full-stack skills. When I’m not coding, I love spending time in peaceful green environments. I also exercise regularly to stay physically and mentally healthy.
+
+📌 Always open to remote roles where I can build cool things with forward-thinking teams.
 
 𝐂𝐨𝐧𝐭𝐚𝐜𝐭: 📧 mohosin.hasan.akash@gmail.com or 📧 mohosinlinkedin@gmail.com
 
