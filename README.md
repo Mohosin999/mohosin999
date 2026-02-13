@@ -1,6 +1,6 @@
 ### Hi 👋, this is Mohosin Hasan Akash, a Frontend Engineer from Bangladesh.
 <div style="text-align: center;">
-  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQEEoVg9UWAhyA/profile-displaybackgroundimage-shrink_350_1400/B56ZvkiGuzI4AY-/0/1769065705991?e=1770854400&v=beta&t=CDQwWX5puirNIRM9Fz_ZuBsOSUKUyO8eL-B7M3O0dy0" />
+  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQEEoVg9UWAhyA/profile-displaybackgroundimage-shrink_200_800/B56ZvkiGuzI4AU-/0/1769065705991?e=1772668800&v=beta&t=crFZ-0pbWhakCL3zfevP5R9h-kRgeglAdFsYodkIqbk" />
 </div>
 
 
