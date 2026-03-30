@@ -36,6 +36,7 @@ Recently, I’ve been building websites with AI-powered features integrated dire
 
 <table>
   <tr>
+    <!-- Top Languages temporarily hidden because of service issue -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosin999&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
     </td>
@@ -46,5 +47,6 @@ Recently, I’ve been building websites with AI-powered features integrated dire
 </table>
 
 <p align="center">
-  <i>Stats update every few hours • Only public repositories are shown</i>
+  <i>Top Languages will appear automatically within 1–2 hours (service recovering)<br>
+  Streak is already working 🔥</i>
 </p>
