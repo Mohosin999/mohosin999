@@ -37,10 +37,14 @@ Recently, I’ve been building websites with AI-powered features integrated dire
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosin999&layout=compact&theme=dracula&hide_border=true&hide_title=false" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosin999&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=mohosin999&theme=dracula&hide_border=true&hide_title=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=mohosin999&theme=radical&hide_border=true&hide_title=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <i>Stats update every few hours • Only public repositories are shown</i>
+</p>
