@@ -1,6 +1,6 @@
 ### Hi 👋, this is Mohosin Hasan Akash, a Full-Stack Developer (MERN) from Bangladesh.
 <div style="text-align: center;">
-  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQFH8b9Bu5QWAw/profile-displaybackgroundimage-shrink_200_800/B56ZzBSQVNIYAU-/0/1772769314705?e=1775088000&v=beta&t=f8T4wZh-ykU2EXAzRUyY-LzL56WpbxKieM4WmHD8Cf8" />
+  <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQH1tt1AjTkOIw/profile-displaybackgroundimage-shrink_350_1400/B56Z0.Z9fxK4AY-/0/1774868486644?e=1776297600&v=beta&t=sgZEaVwRm28UrMR7AhnaXhyFDFGWUoKV0X0SSG0xz7M" />
 </div>
 
 
