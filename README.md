@@ -34,17 +34,22 @@ Recently, I’ve been building websites with AI-powered features integrated dire
 
 ## 📊 GitHub Status:
 
-<table>
+<table align="center">
   <tr>
-    <!-- Top Languages temporarily hidden because of service issue -->
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosin999&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
+      <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=mohosin999&theme=radical&hide_border=true&hide_title=true" alt="GitHub Streak" />
+      <!-- GitHub Streak Stats Card -->
+      <img src="https://streak-stats.demolab.com" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Mohosin's GitHub Stats" />
+</p>
 
 <p align="center">
   <i>Top Languages will appear automatically within 1–2 hours (service recovering)<br>
