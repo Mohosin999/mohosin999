@@ -34,24 +34,10 @@ Recently, I’ve been building websites with AI-powered features integrated dire
 
 ## 📊 GitHub Status:
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
-      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <!-- GitHub Streak Stats Card -->
-      <img src="https://streak-stats.demolab.com" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=mohosin999&theme=radical&hide_border=true&hide_title=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Mohosin's GitHub Stats" />
-</p>
-
-<p align="center">
-  <i>Top Languages will appear automatically within 1–2 hours (service recovering)<br>
-  Streak is already working 🔥</i>
-</p>
