@@ -1,4 +1,4 @@
-### Hi 👋, this is Mohosin Hasan Akash, a Full-Stack Developer (MERN) from Bangladesh.
+### Hi 👋, this is Mohosin Hasan Akash, a Full-Stack Developer from Bangladesh.
 <div style="text-align: center;">
   <img alt="coding" style="width:100%; height: auto;" src="https://media.licdn.com/dms/image/v2/D5616AQEZ4pIJrTsjuA/profile-displaybackgroundimage-shrink_200_800/B56Z1ygllWIUAY-/0/1775742638909?e=1785369600&v=beta&t=03YOpOuEfQ9iwCvx3b5i4vbmJ4tZJnbJyIoheQWAL50" />
 </div>
@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on **a Local Client Project**
+- 💻 I’m currently working on **AI Chatbot**
 
-- 📖 I’m currently learning **System Design**
+- 📖 I’m currently learning ****
 
 
 ## 🚀 About Me
