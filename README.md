@@ -12,19 +12,22 @@
 
 
 ## 🚀 About Me
-With over 4 years of experience in front-end development, I’m an expert at creating high-performance, scalable web applications that maximize user experience. My skills are JavaScript, TypeScript, React, and Next.js, and I have a deep understanding of building RESTful APIs using Node.js and Express.
 
-Recently, I’ve been building websites with AI-powered features integrated directly into the workflow. This approach ensures that the solutions I deliver stay modern, efficient, and ahead of the curve. I truly enjoy learning new things. Right now, I’m exploring backend development and working with the MERN stack to strengthen my full-stack skills.
+When I get a new project idea, I think before coding. I define the Product Requirements Document, design the database and API architecture, choose the tech stack, then use AI agents to build it module by module. I review, test edge cases, refactor, secure, and deploy. AI writes the code, but I own the thinking and the product.
 
-📌 Always open to remote roles where I can build cool things with forward-thinking teams.
+With over 2 years of hands-on experience as a full-stack engineer, I build scalable, high-performance, AI-powered products that deliver real value. My skills include TypeScript, React, Node.js, MongoDB, and PostgreSQL. I have deep knowledge of designing RESTful APIs and implementing real-time features using WebSockets.
 
-𝐂𝐨𝐧𝐭𝐚𝐜𝐭: 📧 mohosin.hasan.akash@gmail.com or 📧 mohosinlinkedin@gmail.com
+I built ATSUp, an AI-powered tool that helps job seekers make their resumes ATS-friendly. Users can upload their resume and job description to get an instant ATS score along with clear feedback on what’s missing, what’s strong, and what needs improvement. It also includes a dedicated ATS-friendly Resume Builder and a separate AI Resume Rewriter that rewrites the resume according to the Job Description. Currently offering 7 free credits daily.
+
+I’m looking for opportunities where I can keep building useful products and work with people who value both speed and good engineering judgment.
+
+mohosin.hasan.akash@gmail.com
 
 
 ## 📚 Skills & Experience: 
 ✅ JavaScript • TypeScript <br>
 ✅ React • Next.js • Redux-Toolkit • Zustand <br>
-✅ Node.js • Express • MongoDB <br>
+✅ Node.js • Express • MongoDB • PostgreSQL <br>
 ✅ Jest • Swagger <br>
 
 
