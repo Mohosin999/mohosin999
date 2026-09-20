@@ -15,7 +15,7 @@
 
 When I get a new project idea, I think before coding. I define the Product Requirements Document, design the database and API architecture, choose the tech stack, then use AI agents to build it module by module. I review, test edge cases, refactor, secure, and deploy. AI writes the code, but I own the thinking and the product.
 
-With over 2 years of hands-on experience as a full-stack engineer, I build scalable, high-performance, AI-powered products that deliver real value. My skills include TypeScript, React, Node.js, MongoDB, and PostgreSQL. I have deep knowledge of designing RESTful APIs and implementing real-time features using WebSockets.
+With over 3 years of hands-on experience as a full-stack engineer, I build scalable, high-performance, AI-powered products that deliver real value. My skills include TypeScript, React, Node.js, MongoDB, and PostgreSQL. I have deep knowledge of designing RESTful APIs and implementing real-time features using WebSockets.
 
 I built ATSUp, an AI-powered tool that helps job seekers make their resumes ATS-friendly. Users can upload their resume and job description to get an instant ATS score along with clear feedback on what’s missing, what’s strong, and what needs improvement. It also includes a dedicated ATS-friendly Resume Builder and a separate AI Resume Rewriter that rewrites the resume according to the Job Description. Currently offering 7 free credits daily.
 
