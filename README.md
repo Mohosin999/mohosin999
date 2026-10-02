@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohosin999&label=Profile%20views&color=0e75b6&style=flat" alt="mohosin999" /> </p>
 
-- 💻 I’m currently working on **ATSUp - AI-powered Resume Analyzer & Builder**
+- 💻 I’m currently working on **pdf-rag-chatbot-project**
 
-- 📖 I’m currently learning **System Design**
+- 📖 I’m currently learning **RAG and Vector Database**
 
 
 ## 🚀 About Me
