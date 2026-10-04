@@ -11,7 +11,7 @@
 - 📖 I’m currently learning **RAG and Vector Database**
 
 
-## 🚀 About Me
+## 📝 About Me
 
 When I get a new project idea, I think before coding. I define the Product Requirements Document, design the database and API architecture, choose the tech stack, then use AI agents to build it module by module. I review, test edge cases, refactor, secure, and deploy. AI writes the code, but I own the thinking and the product.
 
