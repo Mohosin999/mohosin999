@@ -32,16 +32,16 @@ mohosin.hasan.akash@gmail.com
 
 
 ## ☕ Connect with me!
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohosinh99/" target="_blank" rel="noopener noreferrer">
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohosinh99/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/mohosinh99" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/mohosinh99">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/mohosinh99" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/mohosinh99">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40">
   </a>
 </p>
