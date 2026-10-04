@@ -32,7 +32,7 @@ mohosin.hasan.akash@gmail.com
 
 
 ## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohosinh99/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mohosinh99)
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohosinh99/) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/x.png?raw=true' alt='x' height='40'>](https://x.com/mohosinh99) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mohosinh99)
 
 
 ## 📊 GitHub Status:
