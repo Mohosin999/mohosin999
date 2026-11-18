@@ -8,7 +8,7 @@
 
 - 💻 I’m currently working on ****
 
-- 📖 I’m currently learning **RAG and Vector Database**
+- 📖 I’m currently learning ****
 
 
 ## 📝 About Me
